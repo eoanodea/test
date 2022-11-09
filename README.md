@@ -1,1 +1,1 @@
-# Hello from another collaborator!
+A change from a different collaborator
